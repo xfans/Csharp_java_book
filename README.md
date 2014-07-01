@@ -7,3 +7,5 @@
 1. [c#与java对比](csharp01.md)
 2. [Windows GUI 编程](csharp02.md)
 3. [Web编程(MVC4)](csharp03.md)
+
+地址：[http://xfans.us/archives/132](http://xfans.us/archives/132)
