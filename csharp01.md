@@ -45,11 +45,13 @@ JAVA:
 		const int NUM = 1; //c#
 		public static final int NUM = 1; //java
 4. 字符串，Java用`equals`,C#可以直接用`==`或`!=`
-5. 转义字符，都使用 `\` ，C#中字符串开始前使用 `@` 声明字符串则不需转	义字符
+5. 转义字符，都使用 `\` ，C#中字符串开始前使用 `@` 声明字符串则不需转义字符
+
 ###运算符
 
 1. C# 提供 Java 支持的所有适用的运算符
-2. C# 中可用但 Java 中没有的一些新运算符	（`checked`,`unchecked`...）
+2. C# 中可用但 Java 中没有的一些新运算符（`checked`,`unchecked`...）
+
 ###流控制
 
 1. 在 Java 和 C# 这两种语言中，`if` `else` 完全相同
