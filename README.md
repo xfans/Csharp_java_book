@@ -8,4 +8,7 @@
 2. [Windows GUI 编程](csharp02.md)
 3. [Web编程(MVC4)](csharp03.md)
 
+asVSxcode：[https://github.com/llitfkitfk/android-studio-update/blob/master/asVSxcode.md](https://github.com/llitfkitfk/android-studio-update/blob/master/asVSxcode.md)
+
+
 地址：[http://xfans.us/archives/132](http://xfans.us/archives/132)
